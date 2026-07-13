@@ -1,5 +1,5 @@
-## <h1> My backgroung </h1>
-I am a master student at University of Regina in Saskatchewan Canada
+## My backgroung
+I am a master student at University of Regina [https://www.uregina.ca/] in Saskatchewan Canada
 I am interested in quantitative ecology, specifically in fresh water fish ecology
 
 - Curriculum vitae
